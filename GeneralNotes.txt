@@ -1,0 +1,8 @@
+1. Git commands.
+  git status
+  git add .
+  git commit -m "SomeDesc" -m "Long desc"
+  git push origin master
+
+2. installed globally nsp, node security project. The command used is 'npm install -g nsp'. Note the -g switch.
+3. Ran the command for security check. nsp check
